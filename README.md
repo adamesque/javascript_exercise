@@ -3,3 +3,5 @@
 * When the user has reached the start or end point, the photos should loop as a carousel would.
 * Please code the page according to industry best practices and organize the assets as you would if delivering it to a client to integrate.
 * Do not use any third-party JavaScript packages, libraries or utilities. The exercise must be your own original hand-written code.
+
+![Wireframe](wireframe.png)
