@@ -1,4 +1,4 @@
-I didn't write this exercise or prepare these materials (they, uh, fell into my hands), but it's very similar to the one described [here](http://www.computedstyle.com/2010/12/hiring-front-end-engineers.html).
+I didn't write this exercise or prepare these materials, but it's very similar to the one described [here](http://www.computedstyle.com/2010/12/hiring-front-end-engineers.html).
 
 Instructions
 ============
